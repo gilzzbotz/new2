@@ -21,10 +21,10 @@ let handler = async (m, { conn }) => {
   productListInfo: {
   productSections: [{
   title:'Klik untuk order',
-  products:[{productId:'7487741964584083'}]}],
-  headerImage: { productId: '7487741964584083',
+  products:[{productId:'5106306016153618'}]}],
+  headerImage: { productId: '5106306016153618',
   jpegThumbnail: baper },
-  businessOwnerJid: `6285828357727@s.whatsapp.net`
+  businessOwnerJid: `6281357580963@s.whatsapp.net`
   },
   footerText: '',
   }},{})
